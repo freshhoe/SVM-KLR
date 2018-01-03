@@ -13,4 +13,4 @@ devtools::install_github("YunlongJiao/kernrank")
 
 ## Data
 #### Gene expression data
-[kendallkernel_demo](https://github.com/YunlongJiao/kendallkernel_demo) 참조
+[kendallkernel_demo](https://github.com/YunlongJiao/kendallkernel_demo/tree/master/geneexpr/data) 참조
