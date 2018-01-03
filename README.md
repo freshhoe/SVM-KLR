@@ -16,7 +16,7 @@ devtools::install_github("YunlongJiao/kernrank")
 - [kendallkernel_demo](https://github.com/YunlongJiao/kendallkernel_demo/tree/master/geneexpr/data) 참조
 
 #### Euro barometer data
-
+- [Eurobarometer 55.2](https://dbk.gesis.org/dbksearch/sdesc2.asp?no=3509&db=e&doi=10.4232/1.3509) 참조
 
 ## References
 - Genman, D. et. al (2004). Classifying gene expression profiles from pairwise mRNA comparisons.
