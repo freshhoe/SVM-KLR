@@ -11,14 +11,14 @@ R을 이용한 순위 데이터에 대한 SVM과 KLR의 성능 비교
 devtools::install_github("YunlongJiao/kernrank")
 ```
 
-## Data
+## Datas
 #### Gene expression data
 - [kendallkernel_demo](https://github.com/YunlongJiao/kendallkernel_demo/tree/master/geneexpr/data) 참조
 
 #### Euro barometer data
 
 
-## Reference
+## References
 - Genman, D. et. al (2004). Classifying gene expression profiles from pairwise mRNA comparisons.
 - Jiao, Y. and Vert, J.-P. (2015). The Kendall and Mallows kernels for permutations.
 - Mania, H. et. al (2016). On kernel methods for covariates that are rankings. 
