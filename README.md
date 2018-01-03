@@ -10,3 +10,7 @@ R을 이용한 순위 데이터에 대한 SVM과 KLR의 성능 비교
 # install.packages("devtools")
 devtools::install_github("YunlongJiao/kernrank")
 ```
+
+## Data
+#### Gene expression data
+[kendallkernel_demo](https://github.com/YunlongJiao/kendallkernel_demo) 참조
