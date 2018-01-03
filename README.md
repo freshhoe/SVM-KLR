@@ -16,3 +16,11 @@ devtools::install_github("YunlongJiao/kernrank")
 [kendallkernel_demo](https://github.com/YunlongJiao/kendallkernel_demo/tree/master/geneexpr/data) 참조
 
 #### Euro barometer data
+
+
+## Reference
+- Genman, D. et. al (2004). Classifying gene expression profiles from pairwise mRNA comparisons.
+- Jiao, Y. and Vert, J.-P. (2015). The Kendall and Mallows kernels for permutations.
+- Mania, H. et. al (2016). On kernel methods for covariates that are rankings. 
+- Kimeldorf, G. and Wahba, G. (1971). Some Results on Tchebycheffian Spline Functions.
+- Zhu, J. and Hastie, T. (2005). Kernel Logistic Regression and Import Vector Machine.
